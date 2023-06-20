@@ -4,4 +4,4 @@ This project is a dynamic and interactive web application called "Chromatic Chao
 
 The "Chromatic Chaos" project combines mouse movement tracking, randomized circle creation, and dynamically changing colors to create an interactive visual experience on the canvas.
 
-![Example](image link)
+![Example](image.png)
